@@ -1,0 +1,16 @@
+{
+    "openrpcDocument": "openrpc.json",
+    "outDir": "src",
+    "components": [
+        {
+            "type": "client",
+            "name": "backbone-client",
+            "language": "typescript"
+        },
+        {
+            "type": "server",
+            "name": "backbone-server",
+            "language": "typescript"
+        }
+    ]
+}
